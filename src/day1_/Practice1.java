@@ -5,6 +5,6 @@ public class Practice1 {
         System.out.println("practice1");
         //added a comment
         System.out.println("practice2");
-
+        System.out.println("new practice");
     }
 }
